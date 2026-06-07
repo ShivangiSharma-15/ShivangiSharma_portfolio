@@ -1,6 +1,6 @@
 Excited to share my Data Science & AI/ML Portfolio!
 After months of learning, building, and shipping projects — I've put together my personal portfolio website that captures everything I've worked on as a fresher in the AI/ML space.
-🔗 Portfolio: file:///C:/Users/DELL/Downloads/shivangi_portfolio.html
+🔗 Portfolio: [file:///C:/Users/DELL/Downloads/shivangi_portfolio.html](https://drive.google.com/file/d/1IbZxDF0BB6WzdAb96i4GQpRrrny-XJj-/view?usp=drive_link)
 💻 GitHub: https://github.com/ShivangiSharma-15
 
 Here's a quick look at what's inside 👇
