@@ -18,3 +18,5 @@ Here's a quick look at what's inside 👇
 
 I am actively seeking entry-level roles in Data Science / AI / ML across —
 📍 Noida · Delhi · Gurugram · Jaipur · Pune · Mumbai · Bangalore
+
+Portfolio updated
